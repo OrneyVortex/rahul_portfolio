@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 'use client';
+=======
+'use client'
+>>>>>>> 623c572380647e26c9c4571c77ad9a07f5c51a53
 
 import React from 'react';
 import { Worker, Viewer } from '@react-pdf-viewer/core';
