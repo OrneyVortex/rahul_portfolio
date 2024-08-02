@@ -28,7 +28,7 @@ export const navLinks = [
 
   {
     label: 'Resume',
-    href: '/resume',
+    href: 'https://raw.githubusercontent.com/OrneyVortex/rahul_portfolio/6a40eb1a334d9944325f83a087c154d9cac775b2/public/RahulSharmaResume.pdf',
     mobile: true
   }
 ]
