@@ -6,10 +6,10 @@ import pdfjsWorker from 'pdfjs-dist/build/pdf.worker.entry';
 
 const Resume = () => {
     // Use the direct link format
-    const pdfUrl = 'https://raw.githubusercontent.com/OrneyVortex/rahul_portfolio/978a7c6fee8338bf9387011e5b7d1bc5441efd26/public/Rahul%20Sharma's%20Resume.pdf';
+    const pdfUrl = 'https://raw.githubusercontent.com/OrneyVortex/rahul_portfolio/6a40eb1a334d9944325f83a087c154d9cac775b2/public/RahulSharmaResume.pdf';
 
     const handleDownload = () => {
-        window.open('https://raw.githubusercontent.com/OrneyVortex/rahul_portfolio/978a7c6fee8338bf9387011e5b7d1bc5441efd26/public/Rahul%20Sharma's%20Resume.pdf', '_blank');
+        window.open('https://raw.githubusercontent.com/OrneyVortex/rahul_portfolio/6a40eb1a334d9944325f83a087c154d9cac775b2/public/RahulSharmaResume.pdf', '_blank');
     };
 
     return (
