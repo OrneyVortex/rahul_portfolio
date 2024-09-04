@@ -48,7 +48,7 @@ const Navbar = () => {
         </ul>
         {/* mobile */}
         <MobileNavDropdown />
-        <Link href="/"><Logo className="md:hidden" /></Link>
+        <Link href="/"><Logo className="hidden " /></Link>
         <div className="md:hidden">
           <DarkModeToggle />
         </div>
