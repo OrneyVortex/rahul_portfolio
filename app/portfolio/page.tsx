@@ -3,29 +3,19 @@ import React from 'react'
 
 const projects = [
   {
-    title: 'Weather App',
-    mockup: '/mockups/weatherAppMock.png',
-    live: 'https://weather-app.paytonpierce.dev',
-    code: 'https://github.com/paytonjewell/react-weather-app-v2'
+    title: 'Video Conferencing Application',
+    mockup: 'https://www.mirrorfly.com/blog/wp-content/uploads/2024/05/in-app-video-calling.webp',
+    live: 'https://www.mirrorfly.com/blog/wp-content/uploads/2024/05/in-app-video-calling.webp',
+    code: 'https://github.com/OrneyVortex/E-Commerce-Platform'
   },
-  // {
-  //   title: 'Portfolio Template',
-  //   mockup: '/mockups/portfolioTemplateMock.png',
-  //   live: 'https://reactportfoliotemplate.paytonpierce.dev/',
-  //   code: 'https://github.com/paytonjewell/ReactPortfolioTemplate'
-  // },
+
   {
-    title: 'Alarm Clock',
-    mockup: '/mockups/clockMock.png',
-    live: 'https://darkmodeclock.paytonpierce.dev/',
-    code: 'https://github.com/paytonjewell/Analog-Clock-With-Darkmode-Toggle'
+    title: 'E-Commerce Platform',
+    mockup: 'https://m.media-amazon.com/images/G/31/amazonservices/Blog/What_is_an_E-commerce_business.jpg',
+    live: 'https://m.media-amazon.com/images/G/31/amazonservices/Blog/What_is_an_E-commerce_business.jpg',
+    code: 'https://github.com/OrneyVortex/React-webRTC'
   },
-  {
-    title: 'To-Do List',
-    mockup: '/mockups/todoMock.png',
-    live: 'https://todolist.paytonpierce.dev/',
-    code: 'https://github.com/paytonjewell/To-Do-List'
-  },
+
 ]
 
 const Portfolio = () => {
