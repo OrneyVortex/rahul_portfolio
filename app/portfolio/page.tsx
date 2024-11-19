@@ -15,6 +15,12 @@ const projects = [
     live: 'https://m.media-amazon.com/images/G/31/amazonservices/Blog/What_is_an_E-commerce_business.jpg',
     code: 'https://github.com/OrneyVortex/React-webRTC'
   },
+  {
+    title: 'Car Dealership platform',
+    mockup: 'https://usedcarnews.com/media/k2/items/cache/eb5c20341fb0d56f03f7eff0a4870175_XL.jpg',
+    live: 'https://spyne-ai-frontend-production.up.railway.app/',
+    code: 'https://github.com/OrneyVortex/spyne-ai'
+  },
 
 ]
 
